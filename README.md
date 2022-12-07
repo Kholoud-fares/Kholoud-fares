@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kholoud-fares
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning JavaScript and bootstrap
+- 🌱 I’m currently learning React
 - 📫 How to reach me kholoudshaker79@gmail.com
 
 <!---
